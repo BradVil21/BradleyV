@@ -6,17 +6,17 @@
 
 # Introduction 
 
-I am a recent graduate with a dual focus in cybersecurity and criminal justice, deeply passionate about technology and driven to combat cybersecurity threats. My aspiration is to play a pivotal role in identifying, monitoring, and safeguarding critical data and digital infrastructures from risk exposures. With a solid foundation in Information Technology (IT), proficient coding skills, and comprehensive cybersecurity knowledge gained on my own and from Florida Atlantic University, I am evolving into a distinguished cybersecurity professional. My mission is to operate within established industry standards and frameworks, leveraging my IT expertise to effectively detect, mitigate, and prevent threats and vulnerabilities.
+I am a recent graduate with a dual focus in cybersecurity and criminal justice, deeply passionate about technology and driven to combat cybersecurity threats. I aspire to play a pivotal role in identifying, monitoring, and safeguarding critical data and digital infrastructures from risk exposures. With a solid foundation in Information Technology (IT), proficient coding skills, and comprehensive cybersecurity knowledge gained on my own and from Florida Atlantic University, I am evolving into a distinguished cybersecurity professional. My mission is to operate within established industry standards and frameworks, leveraging my IT expertise to effectively detect, mitigate, and prevent threats and vulnerabilities.
 
 
 
 # Objective
 
-My journey in Information Technology has ignited a strong passion for cybersecurity, and I am fully committed to transitioning into this field. My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can apply my technical expertise to monitor, detect, and respond to cyber threats, while continuing to grow and evolve as a cybersecurity professional.
+My journey in Information Technology has ignited a strong passion for cybersecurity, and I am fully committed to transitioning into this field. My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can apply my technical expertise to monitor, detect, and respond to cyber threats while continuing to grow and evolve as a cybersecurity professional.
 
 
-# Skills 
-[ Will be listed shortly ]
+# Projects 
+IT Support
 
 # Tools / Operating Systems
 <div class="Tools">
